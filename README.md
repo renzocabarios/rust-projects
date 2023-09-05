@@ -33,3 +33,7 @@ checks the output
 ```
 Shadowing is an instance where we can make a variable mutable temporarily.
 ```
+
+```
+`use std::io` is used for input output
+```
