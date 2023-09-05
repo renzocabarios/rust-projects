@@ -37,3 +37,7 @@ Shadowing is an instance where we can make a variable mutable temporarily.
 ```
 `use std::io` is used for input output
 ```
+
+```
+`use std::env` is used for getting command line arguments to program
+```
