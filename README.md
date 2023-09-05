@@ -29,3 +29,7 @@ checks the output
 ```
  By default all rust variables are immutable.
 ```
+
+```
+Shadowing is an instance where we can make a variable mutable temporarily.
+```
